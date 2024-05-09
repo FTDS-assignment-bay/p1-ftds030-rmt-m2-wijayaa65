@@ -6,3 +6,4 @@ numpy
 scikit-learn==1.4.1.post1
 Pillow
 plotly
+feature-engine==1.7.0
